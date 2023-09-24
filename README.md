@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ajtagle12@gmail.com**
 
-- 📄 Know about my experiences [still a student](still a student)
+- 📄 Know about my experiences [still a student]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
