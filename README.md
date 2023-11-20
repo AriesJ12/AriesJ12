@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [still a student]
 
+- <strong> DOST Scholar</strong>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
