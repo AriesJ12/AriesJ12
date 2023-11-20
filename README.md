@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aries Tagle</h1>
 <h3 align="center">A software engineer with nothing to do xD</h3>
 
+
+- <strong> DOST Scholar</strong>
+
 - 🔭 I’m currently working on **the Odin Project**
 
 - 🌱 I’m currently learning **react, ruby, and vanilla js**
@@ -11,7 +14,6 @@
 
 - 📄 Know about my experiences [still a student]
 
-- <strong> DOST Scholar</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
