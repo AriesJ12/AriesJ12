@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **the Odin Project**
 
-- 🌱 I’m currently learning **react, ruby, and vanilla js**
-
-- 🤝 I’m looking for help with **thesis**
+- 🌱 I’m currently learning **react, ruby, and typescript**
 
 - 📫 How to reach me **ajtagle12@gmail.com**
 
