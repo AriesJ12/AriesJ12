@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aries Joseph V. Tagle</h1>
 <h3 align="center">A software engineer with nothing to do xD</h3>
 
+- 🔭 I’m currently working on **on my testing skills**
+
+- 📫 How to reach me **ajtagle12@gmail.com**
+
+- ⚡ Fun fact **I am a DOST scholar**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
