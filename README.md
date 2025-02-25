@@ -1,4 +1,4 @@
 hello, i am aries.
 
-preparing for interview go brrr
+dawg, my resume is lowkey down face we grind for certs
 
